@@ -1,5 +1,11 @@
 # LearnWithUs: EdTech Platform
 
+### 🖥️ Homepage
+![Homepage Screenshot](https://github.com/sonusinha1707/EdTech_Platform/blob/main/home.png)
+
+### 🛒 Product Page
+![Product Page Screenshot](https://github.com/sonusinha1707/EdTech_Platform/blob/main/product.png)
+
 **LearnWithUs** is an innovative EdTech platform built to deliver a modern, engaging, and effective learning experience. With a sleek UI, high performance, and a modular architecture, it provides a solid foundation for scalable and maintainable online education solutions.
 
 ---
